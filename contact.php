@@ -32,6 +32,9 @@ $feedbackColor = '';
                     <a href="https://www.instagram.com/engformationbd" target="_blank" title="Instagram">
                         <i class="fab fa-instagram"></i> Instagram
                     </a>
+                    <a href="https://wa.me/8801516599471" target="_blank" title="WhatsApp">
+                    <i class="fab fa-whatsapp"></i> WhatsApp
+                    </a>
                 </div>
             </div>
 

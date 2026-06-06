@@ -32,7 +32,7 @@ body {
 }
 
 .light {
-    background: #121212;
+    background: #a7aec293;
 }
 
 h3 {
@@ -62,7 +62,7 @@ h3 {
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(46, 43, 43, 0.6);
     backdrop-filter: blur(10px);
     border-bottom: 1px solid #1f1f1f;
 }
@@ -128,7 +128,7 @@ nav a:hover::after {
 
 .hero-text p {
     font-size: 1.1rem;
-    color: #b5b5b5;
+    color: #070707;
     max-width: 480px;
 }
 
@@ -145,7 +145,7 @@ nav a:hover::after {
     padding: 25px 30px;
     font-family: 'Fira Code', monospace;
     font-size: 0.95rem;
-    color: #eaeaea;
+    color: #000000;
     position: relative;
     animation: float 4s ease-in-out infinite;
 }
