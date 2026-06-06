@@ -7,7 +7,7 @@
         <div class="container hero-grid">
 
             <div class="hero-text">
-                <h2>Online English Learning Made Easy. Learn from Anywhere.</h2>
+                <h2 style="color: blue;">Online English Learning Made Easy. Learn from Anywhere.</h2>
                 <p>You can improve your English skills through structured online courses, interactive exercises, and multimedia resources that cover reading, writing, listening, speaking, grammar, and vocabulary.</p>
             </div>
 
@@ -16,7 +16,7 @@
                     <pre>
 <span class="comment">// EngFormation Lesson</span>
 
-<span class="keyword">Lesson:</span> Daily English Practice
+<span class="keyword">Lesson: Daily English Practice</span>
 
 <span class="keyword">Sentence:</span>
 <span class="string">"I practice English every day."</span>
