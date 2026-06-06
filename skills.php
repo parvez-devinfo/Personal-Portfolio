@@ -9,7 +9,7 @@
                 <ul class="skills">
                     <li>
                         <span style="font-weight: bold; font-size: 16px;">ONE TO ONE SESSION:</span><br><br>
-                        Audio and video to practise your listening and speaking skills. Online exercises to help you understanding of grammar.
+                        Audio and video lessons build speaking and listening skills, with grammar exercises for practice.
                     </li>
 
                     <li>
