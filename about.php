@@ -4,15 +4,13 @@
 <div class="page-wrapper">
     <section class="section">
         <div class="container about">
-            <img src="assets/engfo.jpg" alt="Parvez Mosharof">
+            <img src="assets/engfo.jpg" alt="EngFormationBD">
             <div>
                 <h3>About Us</h3>
-                <p>
-                    
-
-EngFormation is an online English learning platform where we create and share practical lessons to improve speaking, grammar, and real-life communication skills.
-we focused on helping learners build confidence through simple and effective live class session.
-                </p>
+                    <p style="font-size: 16px; line-height: 1.6; color: #333;">
+                        EngFormation is an online English learning platform where we create and share practical lessons to improve speaking, grammar, and real-life communication skills.
+                        We focus on helping learners build confidence through simple and effective live class sessions.
+                    </p>
             </div>
         </div>
     </section>

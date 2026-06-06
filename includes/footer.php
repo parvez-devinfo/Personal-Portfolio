@@ -1,5 +1,5 @@
 <footer>
-    © <?php echo date("Y"); ?> EngFormation. All rights reserved.
+    © <?php echo date("Y"); ?> EngFormationBD. All rights reserved.
 </footer>
 
 <script>

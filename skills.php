@@ -7,9 +7,20 @@
             <div class="container">
                 <h3>Services</h3>
                 <ul class="skills">
-                    <li><p style="font-weight: bold;">ONE TO ONE SESSION:<br><br></p>Audio and video to practise your listening and speaking skills. Online exercises to help you understanding of grammar.</li>
-                    <li><p style="font-weight: bold;">PERSONAL TUTORING:<br><br></p>Model texts for all types of writing tasks.Work on your reading skills to read more quickly and understand more.</li>
-                    <li><p style="font-weight: bold;">SELF STUDY COURSES:<br><br></p>Clear and simple grammar explanations to help you revise and practise different grammar points.</li>
+                    <li>
+                        <span style="font-weight: bold; font-size: 16px;">ONE TO ONE SESSION:</span><br><br>
+                        Audio and video to practise your listening and speaking skills. Online exercises to help you understanding of grammar.
+                    </li>
+
+                    <li>
+                        <span style="font-weight: bold; font-size: 16px;">PERSONAL TUTORING:</span><br><br>
+                        Model texts for all types of writing tasks. Work on your reading skills to read more quickly and understand more.
+                    </li>
+
+                    <li>
+                        <span style="font-weight: bold; font-size: 16px;">SELF STUDY COURSES:</span><br><br>
+                        Clear and simple grammar explanations to help you revise and practise different grammar points.
+                    </li>
                 </ul>
             </div>
         </section>
