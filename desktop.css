@@ -13,7 +13,7 @@ html {
 
 body {
     font-family: 'Inter', sans-serif;
-    background: #0b0b0b;
+    background: #7a7a83;
     color: #eaeaea;
     line-height: 1.7;
 }
@@ -62,7 +62,7 @@ h3 {
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(46, 43, 43, 0.6);
+    background: rgba(41, 39, 39, 0.6);
     backdrop-filter: blur(10px);
     border-bottom: 1px solid #1f1f1f;
 }
