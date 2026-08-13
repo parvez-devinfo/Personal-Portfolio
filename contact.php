@@ -23,7 +23,7 @@ $feedbackColor = '';
             <div class="contact-left">
                 <h3>Contact Us:</h3>
 
-                <p>E-mail: <a href="mailto:1MEnglishSchoolBD@gmail.com">EngFormationbd@gmail.com</a></p>
+                <p>E-mail: <a href="mailto:1MEnglishSchoolBD@gmail.com">1MEnglishSchoolBD@gmail.com</a></p>
 
                 <div class="links">
                     <a href="https://facebook.com/1MEnglishSchool/" target="_blank" title="Facebook">

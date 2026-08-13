@@ -1,7 +1,7 @@
 <header class="navbar">
     <div class="container"> 
         <a href="index.php" style="text-decoration: none; color: inherit;">
-            <h1 class="logo"><p style="color: lightblue;">1MEnglish</p>
+            <h1 class="logo"><p style="color: lightblue;">1M English</p>
             <p style="color: lightyellow;">
             School<span style="color: red;"></span>
             </p></h1>
