@@ -23,14 +23,11 @@ $feedbackColor = '';
             <div class="contact-left">
                 <h3>Contact Us:</h3>
 
-                <p>E-mail: <a href="mailto:engformationbd@gmail.com">EngFormationbd@gmail.com</a></p>
+                <p>E-mail: <a href="mailto:1MEnglishSchoolBD@gmail.com">EngFormationbd@gmail.com</a></p>
 
                 <div class="links">
-                    <a href="https://facebook.com/engformationbd/" target="_blank" title="Facebook">
+                    <a href="https://facebook.com/1MEnglishSchool/" target="_blank" title="Facebook">
                         <i class="fab fa-facebook"></i> Facebook
-                    </a>
-                    <a href="https://www.instagram.com/engformationbd" target="_blank" title="Instagram">
-                        <i class="fab fa-instagram"></i> Instagram
                     </a>
                     <a href="https://wa.me/8801516599471" target="_blank" title="WhatsApp">
                     <i class="fab fa-whatsapp"></i> WhatsApp

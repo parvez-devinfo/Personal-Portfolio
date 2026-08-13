@@ -482,3 +482,70 @@ footer {
 }
 
 
+/* =====================
+   MODERN NAV BUTTON STYLE
+===================== */
+.nav-menu a {
+    padding: 8px 14px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+    position: relative;
+    font-weight: 500;
+}
+
+.nav-menu a:hover {
+    background: #ffffff;
+    color: #000;
+    transform: translateY(-2px);
+}
+
+/* =====================
+   MENU TOGGLE (3 DOTS)
+===================== */
+.menu-toggle {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    gap: 4px;
+}
+
+.menu-toggle span {
+    width: 25px;
+    height: 3px;
+    background: #fff;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+
+    .nav-menu {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 70px;
+        right: 20px;
+        background: rgba(0,0,0,0.9);
+        padding: 15px;
+        border-radius: 10px;
+        width: 180px;
+    }
+
+    .nav-menu a {
+        margin: 10px 0;
+        display: block;
+    }
+
+    .menu-toggle {
+        display: flex;
+    }
+
+    .nav-menu.active {
+        display: flex;
+    }
+}

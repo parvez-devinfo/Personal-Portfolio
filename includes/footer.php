@@ -1,5 +1,5 @@
 <footer>
-    © <?php echo date("Y"); ?> EngFormationBD. All rights reserved.
+    © <?php echo date("Y"); ?> 1M English School. All rights reserved.
 </footer>
 
 <script>
@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // FADE-IN on page load
     setTimeout(() => {
         pageWrapper.classList.add("loaded");
-    }, 50); // small delay ensures CSS transition triggers
+    }, 50);
 
     // FADE-OUT on link click
     const links = document.querySelectorAll("a[href*='.php']");
@@ -28,10 +28,23 @@ document.addEventListener("DOMContentLoaded", function() {
             // Navigate after transition
             setTimeout(() => {
                 window.location.href = target;
-            }, 400); // match transition duration
+            }, 400);
         });
     });
+
+    // =========================
+    // MOBILE MENU TOGGLE (ADDED)
+    // =========================
+    const menuToggle = document.getElementById("menuToggle");
+    const navMenu = document.getElementById("navMenu");
+
+    if (menuToggle && navMenu) {
+        menuToggle.addEventListener("click", function() {
+            navMenu.classList.toggle("active");
+        });
+    }
 });
 </script>
+
 </body>
 </html>
